@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.menu ul > li:last-child{
+	border: 2px;
+	color: white;
+	background-color: #F72B3F;
+	box-shadow: 2px 2px 5px gray;
+	border-radius:5px;
+}
